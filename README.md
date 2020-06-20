@@ -1,2 +1,2 @@
 # victory_vm
-RISC-V VM
+RISC-V Virtual machine
